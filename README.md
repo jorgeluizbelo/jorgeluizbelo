@@ -1,9 +1,6 @@
 
 <h1>Jorge Belo</h1>
 <br>
-Jorge Luiz Belo
-<br>
-<br>
 
 <img align="center" alt="Jorge-Python" height="300" width="400" src="https://image.lexica.art/full_webp/145db0cd-9535-4bcb-9543-51ac18179758">
 
