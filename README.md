@@ -2,9 +2,6 @@
 <h1>Jorge Belo</h1>
 <br>
 
-<img align="center" alt="Jorge-Img" height="300" width="500" src="https://image.lexica.art/full_webp/c816b0b4-49c4-4347-8652-d6b2c0b0dafa">
-
-
 🔷 Análise e Desenvolvimento de Sistemas
 
 🔷 Estudando front-end
@@ -23,7 +20,8 @@
 </div>
 
 <br>
+<br>
 <div
-  <a href="https://www.linkedin.com/in/jorge--belo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jorge--belo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <p> <br>
   <a href = "mailto:jorgeluizbelodelima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
