@@ -2,7 +2,7 @@
 <h1>Jorge Belo</h1>
 <br>
 
-<img align="center" alt="Jorge-Python" height="300" width="400" src="https://image.lexica.art/full_webp/145db0cd-9535-4bcb-9543-51ac18179758">
+<img align="center" alt="Jorge-Img" height="300" width="500" src="https://image.lexica.art/full_webp/c816b0b4-49c4-4347-8652-d6b2c0b0dafa">
 
 
 🔷 Análise e Desenvolvimento de Sistemas
