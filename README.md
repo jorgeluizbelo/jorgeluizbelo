@@ -2,8 +2,6 @@
 <h1>Jorge Belo</h1>
 <br>
 
-🔷 Análise e Desenvolvimento de Sistemas
-
 🔷 Estudando front-end
 
 🔶 jorgeluizbelodelima@gmail.com
